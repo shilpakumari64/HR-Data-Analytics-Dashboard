@@ -1,6 +1,10 @@
 # HR-Data-Analytics-Dashboard
 This project is a Tableau dashboard that utilizes an HR dataset to provide insights and visualizations related to human resources data. The dashboard aims to analyze various aspects of HR, including employee demographics, performance metrics, and employee satisfaction.
 
+
+Project - HR-DASHBOARD - Data Analysis
+Tableau Dashboard Link: https://public.tableau.com/app/profile/shilpa.kumari.m/viz/HRDATAANALYTICSDASHBOARD_16813327166200/Dashboard1
+
 ## Prerequisites
 
 To interact with this Tableau dashboard, you will need the following:
